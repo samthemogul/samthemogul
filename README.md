@@ -30,6 +30,9 @@ Here are some of the projects I've worked/am working on:
 3. PeakanArt Virtual Gallery([PeakanArt](https://peakanart.vercel.app/))
    - A simple frontend design of a virtual art gallery
    - Technologies used: HTML, CSS, Javascript
+4. StayBnb ([StayBnb](https://samthemogul.github.io/stay-bnb/StayBnb/home.html))
+   - A one page site for renting out your house space
+   - Technologies used: HTML, CSS, Javascript
 
 Feel free to explore these projects and provide feedback or collaborate with me on any of them.
 
