@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm Samuel Emeka, and I'm passionate about all thi
 
 Here are some of the projects I've worked/am working on:
 
-1. Passhash Password Manager App( in progress)
+1. Passhash Password Manager App( [Passhash](https://passhash-app.web.app/))
    - This application is designed to help you securely store and manage your passwords, making your online life more convenient and secure.
    - Technologies used: ReactJS, SASS, Javascript, Redux Toolkit, NodeJS, MongoDB, ExpressJS, Formik & Yup, Firebase
    
