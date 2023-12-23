@@ -23,7 +23,11 @@ Here are some of the projects I've worked/am working on:
    - This application is designed to help you securely store and manage your passwords, making your online life more convenient and secure.
    - Technologies used: ReactJS, SASS, Javascript, Redux Toolkit, NodeJS, MongoDB, ExpressJS, Formik & Yup, Firebase
    
-2. My portfolio([My portfolio](https://samthemogul.vercel.app/) )
+1. Promptbook( [PromptBook](https://promptbook.netlify.app/))
+   - Promptbook serves as a platform where users can design and share AI prompts for others to copy and use as their own.
+   - Technologies used: NextJS, Tailwind CSS, Javascript, NodeJS, MongoDB, ExpressJS, Netlify, 
+   
+2. My portfolio([My portfolio](https://samthemogul.netlify.app/) )
    - This is the first version of my portfolio site
    - Technologies used: HTML, CSS, Javascript.
 
