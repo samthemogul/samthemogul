@@ -1,59 +1,22 @@
+# 👋 Hi, I’m Samuel Emeka 👋
 
-- # 👋 Hi, I’m @samthemogul 👋
+I'm a Software Engineer and AI/ML enthusiast very passionate about building new stuff that solves "real-world" challenges.
 
-Welcome to my GitHub profile! I'm Samuel Emeka, and I'm passionate about all things technology. Here, you'll find a collection of my projects, contributions, and interests in the world of software development, data science, and more.
+## My Current Project
 
-## About Me
-
-- 🌟 Software Developer | Web App Developer | Data Enthusiast | Problem Solver 
-- 🎓 I am studing Computer science at Kibo School of Technology
-- 💼 I am open to roles in Frontend/Backend development
-
-## What I'm Up To
-
-- 🚀 I'm constantly learning and improving my coding skills.
-- 💡 I enjoy developing software ideas
-- 🔍 Exploring new technologies and tools.
-
-## My Projects
-
-Here are some of the projects I've worked/am working on:
-
-1. Passhash Password Manager App( [Passhash](https://passhash-app.web.app/))
-   - This application is designed to help you securely store and manage your passwords, making your online life more convenient and secure.
-   - Technologies used: ReactJS, SASS, Javascript, Redux Toolkit, NodeJS, MongoDB, ExpressJS, Formik & Yup, Firebase
-   
-1. Promptbook( [PromptBook](https://promptbook.netlify.app/))
-   - Promptbook serves as a platform where users can design and share AI prompts for others to copy and use as their own.
-   - Technologies used: NextJS, Tailwind CSS, Javascript, NodeJS, MongoDB, ExpressJS, Netlify, 
-   
-2. My portfolio([My portfolio](https://samthemogul.netlify.app/) )
-   - This is the first version of my portfolio site
-   - Technologies used: HTML, CSS, Javascript.
-
-3. PeakanArt Virtual Gallery([PeakanArt](https://peakanart.vercel.app/))
-   - A simple frontend design of a virtual art gallery
-   - Technologies used: HTML, CSS, Javascript
-4. StayBnb ([StayBnb](https://samthemogul.github.io/stay-bnb/StayBnb/home.html))
-   - A one page site for renting out your house space
-   - Technologies used: HTML, CSS, Javascript
-
-Feel free to explore these projects and provide feedback or collaborate with me on any of them.
+Simesta, AI-Powered learning assistant.
+- Links: https://github.com/samthemogul/simesta,
+         https://github.com/samthemogul/simesta-server
+   - Simesta is an under-development learning application that leverages the power of AI to create personalized learning paths for students.
+   - Technologies used: ReactNative, Express, Typescript, Redux Toolkit, NodeJS, MongoDB, Python(subsequently)...
 
 
 ## Get in Touch
 
 - 📫 You can reach me at [samuelemeka.guru@gmail.com]
 - 💬 Connect with me on [LinkedIn](https://www.linkedin.com/in/samthemogul)
-- 🌐 Visit my personal website: [My Portfolio](https://samthemogul.vercel.app)
+- 🌐 Visit my personal website: [My Portfolio](https://samthemogul.me)
 
-## Support Me
-
-If you find my work useful or interesting, consider supporting me:
-
-- 💬 Share my projects and profiles on social media.
-
-Thank you for visiting my GitHub profile! Feel free to explore my repositories and reach out if you have any questions or just want to chat about tech.
 
 
 <!---
