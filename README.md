@@ -5,8 +5,8 @@ I'm a Software Engineer and AI/ML enthusiast very passionate about building new 
 ## My Current Project
 
 Simesta, AI-Powered learning assistant.
-- Links: https://github.com/samthemogul/simesta,
-         https://github.com/samthemogul/simesta-server
+- Links: https://github.com/simesta-ai/simesta,
+         https://github.com/simesta-ai/simesta-server
    - Simesta is an under-development learning application that leverages the power of AI to create personalized learning paths for students.
    - Technologies used: ReactNative, Express, Typescript, Redux Toolkit, NodeJS, MongoDB, Python(subsequently)...
 
